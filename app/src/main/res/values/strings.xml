@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GPath</string>
+    <string name="hint_email">Email [optional]</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_mobile">Mobile Number</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_exit">Exit</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? It is very simple, Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="btn_add_new_member">ADD NEW HOUSEHOLD</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="btn_label_submit">SAVE</string>
+    <string name="btn_label_clear">CLEAR</string>
+    <string name="title_register">HHRegistration</string>
+    <string name="title_register_member">Member Registration</string>
+    <string name="btnViewRecordLable">View Records</string>
+    <string name="btnHomeLabel">HOME</string>
+    <string name="btnViewLabel">VIEW</string>
+    <string name="btnSummaryLabel">Registration Summary</string>
+    <string name="btnLabelAddMember">Add Member</string>
+    <string name="text_table">Table Title</string>
+    <string name="text_table_total">Record Total</string>
+
+    <string name="btn_house_label">Registration</string>
+    <string name="btn_service_label">Service</string>
+    <string name="btn_distribution_label">Distribution</string>
+    <string name="btn_Criteria_label">Criteria</string>
+    <string name="btn_Distribution_label">Distribution</string>
+
+    <string-array name="spGenderItem">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="arrVStatus">
+        <item>VStatus</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="arrMStatus">
+        <item>MStatus</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="arrPW">
+        <item>PW</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="arrCU2">
+        <item>CU2</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="arrCA2">
+        <item>CA2</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+
+    <string-array name="arrElderly">
+        <item>Elderly</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="arrDisabled">
+        <item>Disabled</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <!-- For Lebria Member -->
+    <string-array name="arrMarital">
+        <item>MARITAL Status</item>
+        <item>Marrried</item>
+        <item>Single</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="arrIDType">
+        <item>--Select--</item>
+        <item>Organization ID</item>
+        <item>School ID</item>
+        <item>Voter ID</item>
+        <item>Church ID</item>
+        <item>NA</item>
+    </string-array>
+
+    <string-array name="arrTitlePosition">
+        <item>--Select--</item>
+        <item>NA</item>
+        <item>Member</item>
+        <item>Chairman</item>
+        <item>Co-Chairman</item>
+
+    </string-array>
+    <string-array name="arrDesignatedProxy">
+        <item>Designated</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <!-- Distribution food type-->
+    <string-array name="arrDistributionType">
+        <item>Food</item>
+        <item>Non Food</item>
+        <item>Cash</item>
+        <item>Voucher</item>
+    </string-array>
+
+    <!-- Summary -->
+    <string name="txt_title_summary">Summary</string>
+
+
+    <string name="menu_action_logout">Logout</string>
+    <string name="hello_world">Hello world!</string>
+
+
+    <string name="error.message.network">Network error</string>
+    <string name="error.message.call">Call failed</string>
+    <string name="error.message.map">Map loading failed</string>
+    <string name="title_activity_service">ServiceActivity</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- ADDED BY POP  FOR SERVICE ACTIVITY-->
+    <string name="btn_RemoveLabel">Remove</string>
+    <string name="btn_ServiceLabel">Service</string>
+    <string name="txt_award_Lable">Award</string>
+    <string name="title_activity_map">MapActivity</string>
+    <!-- ADDED BY POP  FOR MAP ACTIVITY-->
+    <string name="btn_MapLabel">GPS</string>
+    <string name="latiTitle">Latitude</string>
+    <string name="longTitle">Longitude</string>
+
+    <string name="groupTitle">Group</string>
+    <string name="title_activity_all_summary">AllSummaryActivity</string>
+    <string name="title_activity_summary_service">SummaryService</string>
+    <string name="title_activity_assign">AssignActivity</string>
+    btnGraduation
+    <!-- ADDED BY POP  FOR Graduation ASiign-->
+    <string name="btn_GraduationLabel">Graduation</string>
+    <string name="tv_GraduationTitleLabel">Graduation</string>
+
+    <!-- ADDED BY POP  FOR SERVICE ASiign-->
+    <string name="btn_AssignLabel">Assign</string>
+    <string name="tv_AssignTitleLabel">Assign Beneficiary</string>
+    <string name="btn_search_Lable"></string>
+    <string name="btn_search">Search</string>
+
+    <string name="assignTitleLabelP2a">Assign Program (Page 2a)</string>
+    <string name="title_activity_assign_page2">AssignPage2</string>
+
+    <string name="btn_synchronizeLable">Sync</string>
+    <string name="btn_distributionLable">Distribution</string>
+    <string name="title_activity_service_record">ServiceRecord</string>
+
+    <!--  FOR SERVICE SUMMARY -->
+    <string name="srv_sum_crite_TitleLable">Service Summary</string>
+    <string name="srv_summary_TitleLable">Service Summary By Criteria</string>
+    <string name="tv_criteria">Criteria</string>
+    <!-- LOG IN SCREEN -->
+    <string name="log_in_version_lable">Version - V2.3.39</string>
+    <!-- VERSION -->
+
+
+
+    <string name="title_activity_service_summary_list">ServiceSummaryList</string>
+    <string name="title_activity_graduation">GraduationActivity</string>
+    <string name="title_activity_assign_lactating_mother">AssignLactatingMother</string>
+    <string name="title_activity_assign_pregnant_women">AssignPregnantWomen</string>
+    <string name="title_activity_assign_childen_under2">AssignChildenUnder2</string>
+    <string name="title_activity_assign_child_above2">AssignChildAbove2</string>
+    <string name="title_activity_register_liberia">RegisterLiberia</string>
+    <string name="title_catagories">FAMILY COMPOSITION AND  HOUSING</string>
+
+    <!-- FOR LIBERIA  REGISTRATION -->
+    <string name="label_hasTakeCForEbola_">Has this HH taken in an extra child because of Ebola? (ExtraChildBecauseEbola)</string>
+    <string name="label_DidContractEbola">Did someone in this HH (living or deceased) contract Ebola? (LivingDeceasedContractEbola)"</string>
+    <string name="label_hasTakeEForEbola"> Has this HH taken in an extra elderly person because of Ebola?</string>
+     <string name="label_hasTakeChronicallyIllForEbola"> Has this HH taken in an extra chronically ill or disabled person because of Ebola? (ExtraChronicallyIllDisabledPersonBecauseEbola)
+        </string>
+    <string name="title_activity_graduation_update">GraduationUpdate</string>
+    <string name="label_assign_summary">Assign Program</string>
+    <string name="title_activity_summary_assign_base_criteria">SummaryAssignBaseCriteria</string>
+    <string name="title_activity_card_request">CardRequest</string>
+    <!-- @date:2015-10-31-->
+    <!-- Card Request Model -->
+    <string name="btn_Card_request_lable">Card Request</string>
+    <string name="lbl_ct">Card Type</string>
+    <!-- Registration  lable -->
+    <string name="lbl_se_district">Select District</string>
+    <string name="lbl_se_ta">Select Ta</string>
+    <string name="lbl_se_GVH">Select GVH</string>
+    <string name="lbl_se_village">Select Village</string>
+
+    <!-- Registration  lable -->
+    <string name="lbl_district">District :</string>
+    <string name="lbl_ta">Ta :</string>
+    <string name="lbl_GVH">GVH :</string>
+    <string name="lbl_village">Village :</string>
+    <!--Assign sub module -->
+    <string name="lbl_duration"> 0  days</string>
+    <!--Liberia member Sub Title lable-->
+    <string name="lbl_bsc_mem_1">Verified by: BSC Member 1</string>
+    <string name="lbl_bsc_mem_2">Verified by: BSC Member 2</string>
+
+    <string name="lbl_proxy_bsc_mem_1">Proxy Verified by: BSC Member 1</string>
+    <string name="lbl_proxy_bsc_mem_2">Proxy Verified by: BSC Member 2</string>
+
+    <string name="lbl_firstName">First Name</string>
+    <string name="lbl_midName">Middle Name</string>
+    <string name="lbl_lastName">Last Name</string>
+    <string name="lbl_birthYear">Birth Year</string>
+    <string name="lbl_contact">Contact</string>
+    <string name="lbl_idType">Id Type</string>
+    <string name="lbl_idNo">Id No</string>
+    <string name="lbl_title">Title/Position</string>
+    <string name="title_activity_register_member_liberia">RegisterMemberLiberia</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_assign_for_liberia">AssignForLiberia</string>
+    <string name="title_activity_distribution">Distribution</string>
+
+    <!-- FOR LIBERIA  REGISTRATION -->
+    <string name="label_hasTakeCForEbola_1">Has this HH taken in an extra child because of Ebola? </string>
+    <string name="label_DidContractEbola_2">Did someone in this HH (living or deceased) contract Ebola? "</string>
+    <string name="label_hasTakeEForEbola_3"> Has this HH taken in an extra elderly person because of Ebola?</string>
+    <string name="label_hasTakeChronicallyIllForEbola_4"> Has this HH taken in an extra chronically ill or disabled person because of Ebola?</string>
+
+
+</resources>
